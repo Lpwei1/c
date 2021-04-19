@@ -1,0 +1,5 @@
+setup.py
+dingding_py.egg-info/PKG-INFO
+dingding_py.egg-info/SOURCES.txt
+dingding_py.egg-info/dependency_links.txt
+dingding_py.egg-info/top_level.txt
